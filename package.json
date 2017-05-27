@@ -1,0 +1,16 @@
+{
+  "name": "badlibra",
+  "version": "1.0.0",
+  "description": "badlibra is a vulnerable application for pentesting",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app.js",
+    "install" : "node preset.js"
+  },
+  "author": "Yosuke HASEGAWA",
+  "license": "ISC",
+  "devDependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}
