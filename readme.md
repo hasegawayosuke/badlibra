@@ -1,5 +1,9 @@
 # BadLibra - 脆弱性を試すためのサンプルWebアプリケーション
 
+* THIS PROJECT IS DEPRECATED *
+
+Use [BadLibrary](https://github.com/SecureSkyTechnology/BadLibrary) instead.
+
 BadLibraは初めて脆弱性を探すのに最適な、小さくて簡単に動かせる脆弱なサンプルWebアプリケーションです。
 node.jsだけ入っていれば特にそれ以外には何も必要なく動くので、BadStoreなどのようにVM環境を用意する必要もありません。
 
